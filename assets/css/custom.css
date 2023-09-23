@@ -1,0 +1,65 @@
+h2 {
+  font-weight: 300;
+}
+
+h3 {
+  color: #1e6bb8;
+}
+
+.container {
+  margin: 50px 200px;
+}
+
+.app-section {
+  display: block;
+  vertical-align: top;
+  margin-bottom: 80px;
+}
+
+.app-image {
+  vertical-align: top; 
+  max-width: 30%;
+  display: inline-block;
+}
+
+.app-image > a > img {
+  max-height: 200px;
+  border: 1px solid #1e6bb8;
+  padding: 2px;
+}
+
+.app-blurb {
+  max-width: 60%;
+  width: 60%;
+  vertical-align: top;
+  margin-left: 5%;
+  padding-left: 2%;
+  /* border-left: 4px solid #1e6bb8; */
+  display: inline-block;
+  height: 200px;
+}
+
+.profile-picture {
+  margin: 20px;
+  min-width: 200px;
+}
+
+@media only screen and (max-width: 950px) {
+    .container {
+        margin: 20px 20px;
+    }
+    .app-blurb {
+        display: block;
+        width: 100%;
+        max-width: 100%;
+    }
+    .app-image {
+        display: block;
+    }
+    margin-left {
+        0;
+    }
+    padding-left{
+        0;
+    }
+}
