@@ -1,0 +1,5 @@
+name: Xiangyu Yu - Sean's Homepage
+markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
+
+theme: jekyll-theme-cayman
