@@ -6,4 +6,3 @@
 
 - Email me at xiangyu_yu [at] berkeley.edu.
 
-<!-- [Berkeley website](http://sph.berkeley.edu/corinne-riddell-phd)>
