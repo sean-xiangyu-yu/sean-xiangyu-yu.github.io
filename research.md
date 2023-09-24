@@ -17,4 +17,4 @@ title: "Publications"
 
 * Causal Inferences in Clinical Trials: Data Fusion of A Multi-center Clinical Trial. *Peking University, bachelor's thesis.*
 
-&dagger: first author or co-first author
+&dagger: first author or co-first author &#8364
